@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanishqRathi12&theme=" alt="TanishqRathi12" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development , java , DSA**
+- 🌱 I’m currently learning **Mern Stack Development , java , DSA**
 
 - 📫 How to reach me **rathitanishq2022@gmail.com**
 - 👨‍💻 All of my projects are available at **https://tanishqrathi12.github.io/My-Portfolio/**
