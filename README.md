@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Mern Stack Development , java , DSA**
 
 - 📫 How to reach me **rathitanishq2022@gmail.com**
-- 👨‍💻 All of my projects are available at **[https://tanishqrathi12.github.io/My-Portfolio/](https://tanishqrathi12.github.io/My-Professional-Portfolio)**
+- 👨‍💻 All of my projects are available at **[https://tanishqrathi/Portfolio/](https://tanishqrathi.tech)**
 
 <div> <a href="https://in.linkedin.com/in/tanishq-rathi-580714295" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TanishqRathi12" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
